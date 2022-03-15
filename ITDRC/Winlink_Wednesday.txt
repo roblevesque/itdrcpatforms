@@ -1,0 +1,22 @@
+Form:ITDRC_Check-In_inital.html
+
+To: <var MsgTo>
+
+Subject: ITDRC Winlink Wednesday Check In - <var DateString>
+
+Msg:
+-ex01-
+ITDRC Winlink Wednesday Check-in
+Status: [<var Status>]
+Date/Time: <var DateTime>
+Location: <var Location>
+GPS Coordinates: LAT <var Latitude>  LON <var Longitude>
+Band Used: <var Band>
+Session Type: <var Radiomode>
+Call/Tactical Sender: <var Callsign>
+-------------------------------------------------------------
+<var Callsign>, <var FirstName>, <var CityCountyState>, <var Region>
+Comments:
+<var AdditionalComments>
+-------------------------------------------------------------
+Version:  ITDRC-Exercise - Template 01

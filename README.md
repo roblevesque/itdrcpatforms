@@ -12,4 +12,3 @@ Find the Standard_Forms directory (for me that is `~/.local/share/pat/Standard_F
 ## Thanks to
 
 Thanks to Todd Clausen for the original form that this attempts to fill out for. Also thanks to the original designers of the base Winlink form that this built from as well as Winlink themselves and the developers of the Pat client. 
-# itdrcpatforms
